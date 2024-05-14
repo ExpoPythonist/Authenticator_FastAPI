@@ -25,17 +25,17 @@ uvicorn main:app --reload
 # Screenshots 
 
 **Check Status**
-![Status check](https://github.com/ExpoPythonist/Authenticator_FastAPI/preview/blob/master/Status_check.png)
+![Status check](https://github.com/ExpoPythonist/Authenticator_FastAPI/blob/master/preview/Status_check.png)
 
 **Documentation**
-![login page](https://github.com/ExpoPythonist/Authenticator_FastAPI/preview/blob/master/Docs.png)
+![login page](https://github.com/ExpoPythonist/Authenticator_FastAPI/blob/master/preview/Docs.png)
 
 **User Create**
-![User Create](https://github.com/ExpoPythonist/Authenticator_FastAPI/blob/master/user_create.png)
+![User Create](https://github.com/ExpoPythonist/Authenticator_FastAPI/blob/master/preview/user_create.png)
 
 **Token**
-![Token](https://github.com/ExpoPythonist/Authenticator_FastAPI/blob/master/Auth_token.png)
+![Token](https://github.com/ExpoPythonist/Authenticator_FastAPI/blob/master/preview/Auth_token.png)
 
 **User Get**
-![User Get](https://github.com/ExpoPythonist/Authenticator_FastAPI/blob/master/User_get.png)
+![User Get](https://github.com/ExpoPythonist/Authenticator_FastAPI/blob/master/preview/User_get.png)
 
